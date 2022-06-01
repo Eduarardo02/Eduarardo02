@@ -1,3 +1,5 @@
+# sobre mim
+
 - 👋 Olá meu nome é @Eduarardo02
 - 👀 Meu email de contato é eduardo.kuha@escola.pr.gov.br
 - 🌱Eu estou interessado em aprender a programar novas linguagens
